@@ -19,7 +19,7 @@ while True:
     print("Escribe 'multiplicacion' para multiplicar")
     print("Escribe 'division' para dividir")
     print("Escribe 'salir' para terminar el programa")
-
+    print("esta es una prueba")
     opcion = input(": ")
 
     if opcion == "salir":
